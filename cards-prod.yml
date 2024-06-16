@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank cards related prod APIs"
   contact-details:
-    name: "John Doe- QA Lead"
+    name: "John Doe- Prod Lead"
     email: "john2322@gmail.com"
   on-call-support:
     - 05144305121
