@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contact-details:
-    name: "Emir Baran- Prod Lead"
+    name: "{cipher}d115da60fabd3ee9c2896c99d9fa4b1cf41eca68306f77f3496422545412b16695ba1909a3d9680bcbddeca2cc6ea0f9"
     email: "emir.baran25@gmail.com"
   on-call-support:
     - 05144305129
