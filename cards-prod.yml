@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related production APIs"
+  message: "Welcome to EazyBank cards related prod APIs"
   contact-details:
     name: "John Doe- Prod Lead"
     email: "john232@gmail.com"
